@@ -1,0 +1,24 @@
+#hat{
+    width: 30%;
+    text-align: center;
+    color: fuchsia;
+}
+.pesh{ 
+    text-align: center;
+    width: 15%;
+    color: rgb(136, 255, 0);
+}
+.ula{
+    color: rgb(255, 106, 0);
+} 
+body{
+    background: fixed;
+    background-image: url('https://img.freepik.com/free-vector/dreamy-floral-background_53876-92903.jpg?semt=ais_hybrid&w=740')
+}
+#ololo{
+    color: darkviolet;
+}
+
+.imgg{
+    width: 500px;
+}
